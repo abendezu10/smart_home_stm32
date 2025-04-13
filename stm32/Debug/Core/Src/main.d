@@ -23,7 +23,16 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h \
- ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h
+ ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOS.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOSConfig.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/projdefs.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portable.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/deprecated_definitions.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portmacro.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_wrappers.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/list.h
 ../Core/Inc/main.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h:
 ../Core/Inc/stm32f4xx_hal_conf.h:
@@ -50,3 +59,12 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h:
 ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOS.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOSConfig.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/projdefs.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portable.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/deprecated_definitions.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portmacro.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_wrappers.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/list.h:

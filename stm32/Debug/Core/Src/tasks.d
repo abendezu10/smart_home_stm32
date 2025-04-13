@@ -1,18 +1,25 @@
-Core/Src/tasks.o: ../Core/Src/tasks.c ../Core/Inc/FreeRTOS.h \
- ../Core/Inc/FreeRTOSConfig.h ../Core/Inc/projdefs.h \
- ../Core/Inc/portable.h ../Core/Inc/deprecated_definitions.h \
- ../Core/Inc/portmacro.h ../Core/Inc/mpu_wrappers.h ../Core/Inc/task.h \
- ../Core/Inc/list.h ../Core/Inc/timers.h ../Core/Inc/task.h \
- ../Core/Inc/stack_macros.h
-../Core/Inc/FreeRTOS.h:
-../Core/Inc/FreeRTOSConfig.h:
-../Core/Inc/projdefs.h:
-../Core/Inc/portable.h:
-../Core/Inc/deprecated_definitions.h:
-../Core/Inc/portmacro.h:
-../Core/Inc/mpu_wrappers.h:
-../Core/Inc/task.h:
-../Core/Inc/list.h:
-../Core/Inc/timers.h:
-../Core/Inc/task.h:
-../Core/Inc/stack_macros.h:
+Core/Src/tasks.o: ../Core/Src/tasks.c \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOS.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOSConfig.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/projdefs.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portable.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/deprecated_definitions.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portmacro.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_wrappers.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/list.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/timers.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/stack_macros.h
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOS.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOSConfig.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/projdefs.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portable.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/deprecated_definitions.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portmacro.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_wrappers.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/list.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/timers.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/stack_macros.h:

@@ -1,15 +1,21 @@
-Core/Src/port.o: ../Core/Src/port.c ../Core/Inc/FreeRTOS.h \
- ../Core/Inc/FreeRTOSConfig.h ../Core/Inc/projdefs.h \
- ../Core/Inc/portable.h ../Core/Inc/deprecated_definitions.h \
- ../Core/Inc/portmacro.h ../Core/Inc/mpu_wrappers.h ../Core/Inc/task.h \
- ../Core/Inc/list.h ../Core/Inc/mpu_syscall_numbers.h
-../Core/Inc/FreeRTOS.h:
-../Core/Inc/FreeRTOSConfig.h:
-../Core/Inc/projdefs.h:
-../Core/Inc/portable.h:
-../Core/Inc/deprecated_definitions.h:
-../Core/Inc/portmacro.h:
-../Core/Inc/mpu_wrappers.h:
-../Core/Inc/task.h:
-../Core/Inc/list.h:
-../Core/Inc/mpu_syscall_numbers.h:
+Core/Src/port.o: ../Core/Src/port.c \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOS.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOSConfig.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/projdefs.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portable.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/deprecated_definitions.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portmacro.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_wrappers.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/list.h \
+ C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_syscall_numbers.h
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOS.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/FreeRTOSConfig.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/projdefs.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portable.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/deprecated_definitions.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/portmacro.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_wrappers.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/task.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/list.h:
+C:/Users/abend/Documents/Programming/c/stm32/smart_home/stm32/FreeRTOS/Include/mpu_syscall_numbers.h:
